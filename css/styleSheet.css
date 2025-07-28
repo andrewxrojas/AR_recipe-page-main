@@ -23,7 +23,12 @@
     list-style-position: inside;
     padding: 10px;
     }
+
   .prepTime li::marker {
+    color: hsl(332, 51%, 32%);
+    }
+
+  .instructions li::marker {
     color: hsl(332, 51%, 32%);
     }
 
@@ -42,7 +47,6 @@
     color:hsl(332, 51%, 32%);
     
   }
-
 
   .prep {
     font-weight:700 ;
@@ -84,6 +88,8 @@
   .nutrition {
     padding: 50%;
   }
+
+
 
   img {
     width: 100%;
@@ -158,6 +164,7 @@
       border-radius: 30px;
       padding: 30px;
     }
+
 
     .recipeCard {
       border-radius: 20px;
