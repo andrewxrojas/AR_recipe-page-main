@@ -15,7 +15,7 @@
 
 ### Screenshot
 
-![Desktop View](./assets/images/desktop.png) 
+![Desktop View](./assets/images/desktop.png)
 ![Mobile View](./assets/images/mobile.png)
 
 
