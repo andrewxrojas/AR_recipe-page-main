@@ -30,6 +30,7 @@
 
   .instructions li::marker {
     color: hsl(332, 51%, 32%);
+    font-weight: 700;
     }
 
   hr {
