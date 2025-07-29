@@ -33,14 +33,14 @@
 
 ### What I learned
 
-This project taught me the importance of building a strong foundation before adding any cascade styles to it. I learned how to use and format button tags, which has served as a better option than formatting li and ul tags. Additionally, I knew that it is better to code for the mobile style first and use media queries to scale the size of containers and format type, and other elements based on screen size. I'm still learning about media queries, but I'm gaining a better understanding of them with each new code challenge.
+This challenge has taught me how to li:marker to make specific changes to the bullet points. Also, I learned how to use media queries more effectively. I created the mobile view first. Once I stylized the recipe layout, I used media queries to resize the layout and design to reflect the desktop view.
 
-![What I Learned](./assets/images/Screenshot%202025-07-28%20at%204.48.23 PM.png)
 ![What I Learned](./assets/images/Screenshot%202025-07-28%20at%204.51.24 PM.png)
+![What I Learned](./assets/images/Screenshot%202025-07-28%20at%204.48.23 PM.png)
 
 ### Continued development
 
-I want to continue learning about CSS styles, media query, and responsive layouts as I feel that these are important skills to learn in order to make a user friendly design.
+I want to continue learning about CSS styles, media query, and responsive layouts as I feel that these are important skills to learn in order to make a user friendly designs.
 
 ## Author
 
@@ -49,4 +49,4 @@ I want to continue learning about CSS styles, media query, and responsive layout
 
 ## Acknowledgments
 
-I'd like to thank Frontend Mentor for providing these type of challenges. These challenges are very helpful and I'm very grateful for these opportunities.
+I would like to express my gratitude to Frontend Mentor for providing these challenges. They are extremely helpful, and I truly value these opportunities.

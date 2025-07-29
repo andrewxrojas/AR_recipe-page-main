@@ -52,7 +52,6 @@
   padding-left: 30px;  
   }
   .nutritionName, .nutritionNamePrimary, .nutritionValue, .nutritionValuePrimary {
-  /* padding-right: 30%; */
   width: 100px;
   display: inline-table;
   padding: 10px;
@@ -102,7 +101,7 @@
   .recipeCard {
   width: 100%;;
   max-width: 736px;
-  min-width: auto;      
+  min-width: auto;
   }
   .nutritionName, .nutritionNamePrimary, .nutritionValue, .nutritionValuePrimary {
   min-width: 300px;
